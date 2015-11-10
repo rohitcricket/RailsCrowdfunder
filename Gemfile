@@ -45,3 +45,11 @@ group :development do
   gem 'spring'
 end
 
+  # Use Bootstrap SaaS
+  gem 'bootstrap-sass', '~> 3.3.5'
+
+  # Use font-awesome
+  gem "font-awesome-rails"
+
+  
+
